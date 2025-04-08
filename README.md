@@ -1,6 +1,5 @@
 - Hi, I’m Chronois485
 - I’m interested in programing some stuf and engeniring
-- I’m currently learning java and how to conrol arduino with python
 - Pronouns: Chronos
 - Fun fact: that symbol at the top of my avatar means alchemy
 
